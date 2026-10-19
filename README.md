@@ -3,7 +3,7 @@
 
 - 💻 I specialize in **React.js, JavaScript, HTML5, CSS3, Tailwind CSS**
 - 🎓 Computer Engineering Student at TUIT
-- 📬 Reach out to me: **raxmatillo.ruziboyev@gmail.com**
+- 📬 Reach out to me: **raxmatillo248@gmail.com**
 
 ---
 
@@ -28,5 +28,4 @@
 ---
 
 ### 📊 GitHub Stats
-![Raxmatillo's GitHub stats](https://github-readme-stats.vercel.app/api?username=raxmatillo-ruziyev&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raxmatillo-ruziyev&layout=compact&theme=radial)
+![GitHub Streak](https://streak-stats.demolab.com?user=raxmatillo-ruziyev&theme=dark)
