@@ -3,7 +3,7 @@
 
 - 💻 I specialize in **React.js, JavaScript, HTML5, CSS3, Tailwind CSS**
 - 🎓 Computer Engineering Student at TUIT
-- 📬 Reach out to me: **raxmatillo248@gmail.com**
+
 
 ---
 
