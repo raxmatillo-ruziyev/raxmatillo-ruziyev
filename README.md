@@ -39,5 +39,5 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=raxmatillo-ruziyev&theme=dark" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raxmatillo-ruziyev&layout=compact&theme=dark" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raxmatillo-ruziyev&layout=compact&theme=dark" alt="Top Languages" width="60%" />
 </p>
