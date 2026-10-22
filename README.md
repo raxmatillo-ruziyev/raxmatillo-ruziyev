@@ -2,7 +2,7 @@
 ### Frontend Developer from Uzbekistan 🇺🇿
 
 - 💻 I specialize in **React.js, JavaScript, HTML5, CSS3, Tailwind CSS**
-- 🎓 Computer Engineering Student at TUIT
+- 🎓 Computer Engineering Student at **TUIT** ![TUIT](https://img.shields.io/badge/TUIT-00529B?style=flat-square&logo=graduation-cap&logoColor=white)
 
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Web Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -27,5 +27,17 @@
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=raxmatillo-ruziyev&theme=dark)
+### 🧰 Tools & Other Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+
+---
+
+### 📊 GitHub Stats & Most Used Languages
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=raxmatillo-ruziyev&theme=dark" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raxmatillo-ruziyev&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+</p>
