@@ -2,7 +2,7 @@
 ### Frontend Developer from Uzbekistan 🇺🇿
 
 - 💻 I specialize in **React.js, JavaScript, HTML5, CSS3, Tailwind CSS**
-- 🎓 Computer Engineering Student at **TUIT** ![TUIT](https://img.shields.io/badge/TUIT-00529B?style=flat-square&logo=graduation-cap&logoColor=white)
+- 🎓 Computer Engineering Student at **TUIT** !(https://share.google/ZmUjAch0KVoKxRNHy)
 
 
 ---
