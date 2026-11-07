@@ -34,7 +34,6 @@
 
 ---
 
-### 📊 GitHub Stats & Most Used Languages
 
 
 
