@@ -36,9 +36,9 @@
 
 ### 📊 GitHub Stats & Most Used Languages
 
-### 📊 GitHub Stats & Most Used Languages
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=raxmatillo-ruziyev&theme=dark" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raxmatillo-ruziyev&theme=dark&hide_border=false&layout=donut&langs_count=5" alt="Top Languages" width="49%" />
+
 </p>
